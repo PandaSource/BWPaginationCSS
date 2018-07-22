@@ -1,0 +1,32 @@
+/**
+*	Created  by: PandaSource©
+*
+*	Supported Versions:
+*	Wordpress:			4.9.7
+*	Bootstrap:			4.1.2
+*/
+
+.screen-reader-text{
+	display: none;
+}
+
+.navigation.pagination{
+	margin-top: 36px;
+	width: 100%;
+}
+
+.nav-links{
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+
+.nav-links > .page-numbers{
+	padding: .5rem .75rem;
+	margin-left: -6px;
+	line-height: 1.25;
+	color: #007bff;
+	background-color: #fff;
+	border: 1px solid #dee2e6;
+    border-color: rgb(222, 226, 230);
+}
