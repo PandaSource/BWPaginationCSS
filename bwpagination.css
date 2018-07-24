@@ -30,3 +30,10 @@
 	border: 1px solid #dee2e6;
     border-color: rgb(222, 226, 230);
 }
+
+.page-numbers.current{
+	z-index: 1;
+    color: #FFFFFF;
+    background-color: #007BFF;
+    border-color: #007BFF;
+}
